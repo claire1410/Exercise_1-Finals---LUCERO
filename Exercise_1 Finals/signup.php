@@ -26,7 +26,7 @@
           </form>
           <p>
             By clicking the Sign Up button,you agree to our <br />
-            <a href="#">Terms and Condition</a> and <a href="#">Policy Privacy</a>
+            <a href="#">Terms and Conditions</a> and <a href="#">Policy Privacy</a>
           </p>
         </div>
         <p class="link">
